@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alternative Autocompletion",
+		"CoffeeScript",
+		"Cucumber",
+		"ERB Insert and Toggle Commands",
+		"Indent XML",
+		"Modific",
+		"Package Control",
+		"Phpcs",
+		"Pretty JSON",
+		"Pylinter",
+		"RubyTest",
+		"Sass",
+		"Shell Turtlestein",
+		"SublimeHg",
+		"View In Browser"
+	]
+}

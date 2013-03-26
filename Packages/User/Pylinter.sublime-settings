@@ -1,0 +1,4 @@
+{
+  "ignore": ["C"],
+  "pylint_path": "/Users/bwilliams/dispatcher_env/lib/python2.7/site-packages/pylint/lint.py"
+}

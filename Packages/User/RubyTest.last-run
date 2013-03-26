@@ -1,0 +1,4 @@
+{
+	"last_test_run": "bundle exec ruby -c /Users/bwilliams/Projects/rails/sample_app/spec/requests/user_pages_spec.rb",
+	"last_test_working_dir": "/Users/bwilliams/Projects/rails/sample_app"
+}
