@@ -1,6 +1,24 @@
 Sublime PHP CodeSniffer, Linter and Mess Detector Plugin Changelog
 ==================================================================
 
+6.3.2
+-----
+* Minor enhancement to provide hint with configuration issue [GH-78](https://github.com/benmatselby/sublime-phpcs/issues/78)
+
+6.3.1
+-----
+* Fix for ST2 which does not like trailing commas in the json. Fixes [GH-75](https://github.com/benmatselby/sublime-phpcs/pull/75)
+
+6.3
+---
+* Enhancement to toggle via the context menu or command palette if the plugin should execute on save or not [GH-73](https://github.com/benmatselby/sublime-phpcs/issues/73)
+* Enhancement to blacklist certain extensions if they form part of the main extensions to execute, the example being twig.php [GH-69](https://github.com/benmatselby/sublime-phpcs/issues/69)
+
+6.2
+---
+* Enhancement to support per project settings. Thanks to [Handrus Stephan Nogueira](https://github.com/handrus) for the contribution
+* Enhancement to reload the settings when changed, so you do not have to restart Sublime Text each time.
+
 6.1
 ---
 * Bug fix for users of ST2 and PHP_CodeSniffer1.5.0 (Currently RC1). Essentially we now need to pass cwd so that PHP_CodeSniffer knows where to put the tmp files for its caching mechanism. Fixes [GH-68](https://github.com/benmatselby/sublime-phpcs/issues/68)
